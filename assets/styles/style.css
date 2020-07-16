@@ -31,7 +31,7 @@ background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, F
 }
 
 .calculator-grid > button:hover {
-    background-color: (255, 255, 255, .9);
+    background-color: #fff;
 }
 
 .span-two {
